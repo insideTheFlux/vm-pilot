@@ -1,0 +1,5 @@
+# screenshots taken while testing may show a private desktop: never commit them
+*.png
+*.jpg
+*.bmp
+vm-pilot-shot.*
